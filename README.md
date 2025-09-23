@@ -56,5 +56,5 @@ Accessibility: Proper contrast ratios and semantic markup
 
 📞 Contact
 
-Email: krupalmehta2@example.com
+Email: krupalmehta8@gmail.com
 GitHub: @krupalmehta2
